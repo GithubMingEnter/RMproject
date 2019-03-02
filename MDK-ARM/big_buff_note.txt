@@ -1,0 +1,12 @@
+
+
+		yaw,	pit,		yawr,	pitr
+five:  	695, 	430			52,		-135	
+nine:	895,	553			-150,	0
+
+
+:img-yaw : 335 --277= 612   --  encoder 660   rate = 1.078f
+:img-pit : -226-143    396					rate   = 1.073f
+
+record: y5 81, 		p5 -115
+		y9 -123   	p9  6

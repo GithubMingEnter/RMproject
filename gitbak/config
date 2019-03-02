@@ -1,0 +1,17 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+	hideDotFiles = dotGitOnly
+[gui]
+	wmstate = normal
+	geometry = 835x475+50+50 185 214
+[remote "orgin"]
+	url = https://git.coding.net/langgo/inf.git
+	fetch = +refs/heads/*:refs/remotes/orgin/*
+[remote "origin"]
+	url = https://git.coding.net/langgo/inf.git
+	fetch = +refs/heads/*:refs/remotes/origin/*

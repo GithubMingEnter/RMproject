@@ -1,0 +1,17 @@
+0000000000000000000000000000000000000000 a42788c8da035197d34940f50400b5f9990197b4 Langgo Chen <langgo.chen@dji.com> 1479276887 +0800	commit (initial): hello infantry
+a42788c8da035197d34940f50400b5f9990197b4 09c88b320685974e9b035ceea40aaef126968cd9 langgo <137526291@qq.com> 1479368391 +0800	commit: gimbal pit+yaw done,stable
+09c88b320685974e9b035ceea40aaef126968cd9 40cdd14579ce02e5d7497e65654c4c7f2fe2b654 langgo <137526291@qq.com> 1479392371 +0800	commit: gimbal is really stable, trust myself, solve chassis can conflict later
+40cdd14579ce02e5d7497e65654c4c7f2fe2b654 d053712bb4eb9160cade6dd2be3fc447a193f081 Langgo Chen <langgo.chen@dji.com> 1479452225 +0800	commit: fuck, power on DELAY() is very very very important important important git add . from now on, chassis and gimbal is stable, work ok
+d053712bb4eb9160cade6dd2be3fc447a193f081 f469a663e6b7b2edeb02b278331a3f670d85f75d Langgo Chen <langgo.chen@dji.com> 1479461234 +0800	commit: a infantry demo is done
+f469a663e6b7b2edeb02b278331a3f670d85f75d 6110f1aa1e897b2372af3b737fc65d7858c8f1dc Langgo Chen <langgo.chen@dji.com> 1479471033 +0800	commit: what i just add? maybe rx lost detect
+6110f1aa1e897b2372af3b737fc65d7858c8f1dc dd9de9e5f1bbfe4ccc50268529f55f4bb499ba83 Langgo Chen <langgo.chen@dji.com> 1480326179 +0800	commit: add poke, ahrs ...
+dd9de9e5f1bbfe4ccc50268529f55f4bb499ba83 06119f66dcf70adb4ec72eaae9f64ffc92cc536c Langgo Chen <langgo.chen@dji.com> 1480428786 +0800	commit: 11-29, add yaw+gyro+ecd, wait test
+06119f66dcf70adb4ec72eaae9f64ffc92cc536c 78e5a671cddc31647779021e1e790dd55ab10cf0 Langgo Chen <langgo.chen@dji.com> 1480487382 +0800	commit: test stable, wait add keyboard and mouse control
+78e5a671cddc31647779021e1e790dd55ab10cf0 57b79439742173db0e7955ac52b8a4f50394f8f8 Langgo Chen <langgo.chen@dji.com> 1480501517 +0800	commit: add key mouse done, TODO: add mouse fire
+57b79439742173db0e7955ac52b8a4f50394f8f8 d8c113b0642df9d59397c057bbf7e3c3fe72a57a Langgo Chen <langgo.chen@dji.com> 1480562004 +0800	commit: add every mouse click shot a bullet done!
+d8c113b0642df9d59397c057bbf7e3c3fe72a57a a5ef733e29976c6a796cf28bd9a6088da18af373 Langgo Chen <langgo.chen@dji.com> 1480597444 +0800	commit: i think all function add done
+a5ef733e29976c6a796cf28bd9a6088da18af373 3c6fdbef2e0fcc98820b317aaa4584df455b5d97 Langgo Chen <langgo.chen@dji.com> 1481194912 +0800	commit: fix bugs, add readme
+3c6fdbef2e0fcc98820b317aaa4584df455b5d97 f4da637af8b4eff919bd95bff221f1330617e5fb Langgo Chen <langgo.chen@dji.com> 1481536954 +0800	commit: add chassis move measure,coordinate
+f4da637af8b4eff919bd95bff221f1330617e5fb e6d6f72ad32e6b4cf93fd56d603fc3a02bb55cea Langgo Chen <langgo.chen@dji.com> 1481786307 +0800	commit: see readme.txt. TODO: add high accurate imu to gimbal
+e6d6f72ad32e6b4cf93fd56d603fc3a02bb55cea 6a29e1c9c4d4cae59c62a55951388b6190eb046d Langgo Chen <langgo.chen@dji.com> 1482238477 +0800	commit: 12-20, fix bugs, still have some
+6a29e1c9c4d4cae59c62a55951388b6190eb046d 719f0f4552e75a2126eef051d1fa9df12e8ebf87 Langgo Chen <langgo.chen@dji.com> 1482398334 +0800	commit: 1st release stable version?if tomorrow no bug generate, so is it
